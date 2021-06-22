@@ -7,25 +7,17 @@
     <img src="https://komarev.com/ghpvc/?username=DiscordAnaxes&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/567885938160697377">
-    <img src="https://img.shields.io/badge/Discord-Anaxes%233274-%237289da?logo=discord&style=flat-square" alt="Discord: Anaxes#3274"/>
+    <img src="https://img.shields.io/badge/Discord-j4asper%233274-%237289da?logo=discord&style=flat-square" alt="Discord: Jazper#0001"/>
   </a>
-  <a href="https://twitter.com/DiscordAnaxes">
-    <img src="https://img.shields.io/badge/Twitter-DiscordAnaxes-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: DiscordAnaxes"/>
+  <a href="https://twitter.com/j4asper">
+    <img src="https://img.shields.io/badge/Twitter-j4asper-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: j4asper"/>
   </a>
 </p>
 
 
-<!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
+- 🌍 My Personal Website can be found @ **[jazper.dk](https://jazper.dk)**.
 
-- 🔨 I am currently working on **[widget.style](https://widget.style)**. 
-
-- 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
-
-- 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**.
-
-- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**.
-
-- ⭐ My goal for 2021 is to contribute to more open source projects.
+- 📨 You can reach me @ **[jasper@jazper.dk](mailto:jazper@jazper.dk)**.
 
 <br>
 
