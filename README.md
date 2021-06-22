@@ -1,6 +1,4 @@
-<h1 align="center">Hey 👋, Anaxes here.</h1>
-<h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
-
+<h1 align="center">JAZPER</h1>
 
 <p align="center">
   <a href="https://github.com/j4asper">
@@ -38,6 +36,7 @@
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux" />
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
 </p>
 </details>
