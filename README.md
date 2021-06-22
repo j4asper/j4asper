@@ -3,10 +3,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/DiscordAnaxes">
-    <img src="https://komarev.com/ghpvc/?username=DiscordAnaxes&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+  <a href="https://github.com/j4asper">
+    <img src="https://komarev.com/ghpvc/?username=j4asper&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
-  <a href="https://discord.com/users/567885938160697377">
+  <a href="https://discord.com/users/282660538356596736">
     <img src="https://img.shields.io/badge/Discord-j4asper%233274-%237289da?logo=discord&style=flat-square" alt="Discord: Jazper#0001"/>
   </a>
   <a href="https://twitter.com/j4asper">
@@ -58,13 +58,3 @@ Vue.js       12 mins         ▒░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux" />
 </p>
 </details>
-
----
-
-<p align="center">
-<a href="https://twitter.com/DiscordAnaxes" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dsc.bio/anaxes" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://reddit.com/u/DiscordAnaxes" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pb.anaxes.xyz"><img alt="Potatoe Bot" title="PBOT's Website" height="32" width="32" 
-src="https://i.ibb.co/6NrBXKf/Normal-Flickz-cropped.png" draggable=false></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
