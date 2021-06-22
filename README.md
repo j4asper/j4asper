@@ -24,24 +24,7 @@
 <details>
   <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
-</details>
-
-<details open>
-  <summary>⏰ Development Time Stats</summary>
-
-<!--START_SECTION:waka-->
-```text
-Week: 24 March, 2021 - 31 March, 2021
-
-HTML         14 hrs 23 mins  ██████████████████████▒░░   89.46 % 
-JavaScript   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-JSX          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Vue.js       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-```
-<!--END_SECTION:waka-->
-
+  <img src="https://github-readme-stats.vercel.app/api?username=j4asper&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
 ---
