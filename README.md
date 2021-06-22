@@ -23,7 +23,7 @@
 
 <details>
   <summary>⚡ GitHub Statistics</summary> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4asper&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=j4asper&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
