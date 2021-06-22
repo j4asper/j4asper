@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux" />
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
+  <img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=Dart" />
 </p>
 </details>
