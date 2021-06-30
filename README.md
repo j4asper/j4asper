@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=j4asper&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/282660538356596736">
-    <img src="https://img.shields.io/badge/Discord-j4asper%233274-%237289da?logo=discord&style=flat-square" alt="Discord: Jazper#0001"/>
+    <img src="https://img.shields.io/badge/Discord-Jazper%230001-%237289da?logo=discord&style=flat-square" alt="Discord: Jazper#0001"/>
   </a>
   <a href="https://twitter.com/j4asper">
     <img src="https://img.shields.io/badge/Twitter-j4asper-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: j4asper"/>
