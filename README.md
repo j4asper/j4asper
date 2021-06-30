@@ -7,8 +7,8 @@
   <a href="https://discord.com/users/282660538356596736">
     <img src="https://img.shields.io/badge/Discord-Jazper%230001-%237289da?logo=discord&style=flat-square" alt="Discord: Jazper#0001"/>
   </a>
-  <a href="https://twitter.com/j4asper">
-    <img src="https://img.shields.io/badge/Twitter-j4asper-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: j4asper"/>
+  <a href="https://twitter.com/Jazper1901">
+    <img src="https://img.shields.io/badge/Twitter-Jazper1901-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: Jazper1901"/>
   </a>
 </p>
 
