@@ -39,6 +39,6 @@
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux" />
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python" />
   <img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=Dart" />
-  <img src="https://img.shields.io/badge/CS-black?style=for-the-badge&logo=CS" />
+  <img src="https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=CSharp" />
 </p>
 </details>
