@@ -9,6 +9,7 @@ class Jasper:
         self.location = "Slagelse 4200, Denmark"
         self.timezone = pytz.timezone('Europe/Copenhagen')
         self.company = 'JC-Integrations'
+        self.personal_site = 'https://jazper.dk'
         self.hours_spent_on_this_readme_file = 1 # Worth it
 
 github_user = Jasper()
