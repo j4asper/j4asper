@@ -94,6 +94,7 @@ ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME
 <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
 <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
 <a href="https://analytics.google.com"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=j4asper&theme=blue-green">
