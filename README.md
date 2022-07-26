@@ -18,6 +18,9 @@ github_user = Jasper()
 print(f'Hi! I am {github_user.name}, i am {github_user.age} years old and based in {github_user.location}')
 ```
 
+<details close>
+<summary>Show more stuff</summary>
+
 ## Socials
 <details close>
 <summary>Show</summary>
@@ -102,3 +105,6 @@ ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME
 <img src="https://github-readme-stats.vercel.app/api?username=j4asper&theme=blue-green">
 
 </details>
+
+</details>
+
