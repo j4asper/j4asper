@@ -5,13 +5,13 @@ from datetime import datetime
 class Jasper:
     def __init__(self):
         self.age = 19
-        self.birthday = datetime(year=2003, month=1, day=19)
-        self.location = "Slagelse 4200, Denmark"
+        self.birthday = datetime(year=2003, month=1, day=19) # 19th of January
+        self.location = "Slagelse 4200, Denmark" # 🇩🇰
         self.timezone = pytz.timezone('Europe/Copenhagen')
         self.company = 'JC-Integrations'
         self.personal_site = 'https://jazper.dk'
         self.email = 'jasper@jazper.dk'
-        self.hours_spent_on_this_readme_file = 1 # Worth it
+        self.hours_spent_on_this_readme_file = round(1.34) # Worth it
 
 github_user = Jasper()
 
@@ -41,7 +41,7 @@ jasper@Jasper-PC:~$ neofetch
        .osssssssssssssssssssssso.          ---------------- 
       .+oooooooooooooooooooooooo+.         OS: Zorin OS 16.1 x86_64 
                                            Kernel: 5.15.0-41-generic 
-                                           Uptime: 9 hours, 26 mins 
+                                           Uptime: 6 hours, 9 mins 
   `::::::::::::::::::::::.         .:`     Packages: 2595 (dpkg), 37 (flatpak), 
  `+ssssssssssssssssss+:.`     `.:+ssso`    Shell: bash 5.0.17 
 .ossssssssssssssso/.       `-+ossssssso.   Resolution: 1920x1080, 1920x1080 
