@@ -18,6 +18,9 @@ github_user = Jasper()
 print(f'Hi! I am {github_user.name}, i am {github_user.age} years old and based in {github_user.location}')
 ```
 
+**E-Mail:**  
+<a href="mailto:jasper@jazper.dk"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+
 <details close>
 <summary>Show more stuff</summary>
 
@@ -100,6 +103,7 @@ ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME
 <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
 <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
 <a href="https://analytics.google.com"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
+<a href="https://metrics.torproject.org/rs.html#details/0E0ED80D042D31C98EE24ECFAD89DA333FA4C3EB"><img src="https://img.shields.io/badge/TorProject-7D4698?style=for-the-badge&logo=torproject&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
