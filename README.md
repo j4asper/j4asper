@@ -117,7 +117,7 @@ ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME
 
 </details>
 
-<a href="https://www.buymeacoffee.com/jazper"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9JNUc0QnN4OTJLWVE5NkVLLnBuZ0AzMDB3XzBlLndlYnA=&creator=Jasper+O.+C.&design_code=1&design_color=%2326B0A1&slug=jazper" width="400" height="auto"></a>
+<a href="https://www.buymeacoffee.com/jazper" target="_blank"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9JNUc0QnN4OTJLWVE5NkVLLnBuZ0AzMDB3XzBlLndlYnA=&creator=Jasper+O.+C.&design_code=1&design_color=%2326B0A1&slug=jazper" width="400" height="auto"></a>
 
 </details>
 
