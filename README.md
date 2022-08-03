@@ -11,7 +11,7 @@ class Jasper:
         self.company = 'JC-Integrations'
         self.personal_site = 'https://jazper.dk'
         self.email = 'jasper@jazper.dk'
-        self.hours_spent_on_this_readme_file = round(1.34) # Worth it
+        self.hours_spent_on_this_readme_file = 2 # Worth it
 
 github_user = Jasper()
 
