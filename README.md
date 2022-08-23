@@ -11,6 +11,7 @@ class Jasper:
         self.company = 'JC-Integrations'
         self.personal_site = 'https://jazper.dk'
         self.email = 'jasper@jazper.dk'
+        self.currently_studying = "Computer Science @ UCL Erhversakademi"
         self.hours_spent_on_this_readme_file = 2 # Worth it
 
 github_user = Jasper()
@@ -20,9 +21,6 @@ print(f'Hi! I am {github_user.name}, i am {github_user.age} years old and based 
 
 **E-Mail:**  
 <a href="mailto:jasper@jazper.dk"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-
-**HomeLab:**  
-<a href=""><img src="https://img.shields.io/badge/HomeLab-FFA500?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTIgNTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUyIDUyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cmVjdCB4PSIzIiB5PSI0NiIgc3R5bGU9ImZpbGw6IzgzOTU5NDsiIHdpZHRoPSI2IiBoZWlnaHQ9IjIiLz4NCjxyZWN0IHg9IjQzIiB5PSI0NiIgc3R5bGU9ImZpbGw6IzgzOTU5NDsiIHdpZHRoPSI2IiBoZWlnaHQ9IjIiLz4NCjxyZWN0IHk9IjMyIiBzdHlsZT0iZmlsbDojMjgzMjM4OyIgd2lkdGg9IjUyIiBoZWlnaHQ9IjE0Ii8+DQo8Y2lyY2xlIHN0eWxlPSJmaWxsOiNFN0VDRUQ7IiBjeD0iOCIgY3k9IjM5IiByPSIzIi8+DQo8Zz4NCgk8cGF0aCBzdHlsZT0iZmlsbDojMzg0NTRGOyIgZD0iTTQ3LDM1Yy0wLjU1MywwLTEsMC40NDctMSwxdjZjMCwwLjU1MywwLjQ0NywxLDEsMXMxLTAuNDQ3LDEtMXYtNkM0OCwzNS40NDcsNDcuNTUzLDM1LDQ3LDM1eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNNDMsMzVjLTAuNTUzLDAtMSwwLjQ0Ny0xLDF2NmMwLDAuNTUzLDAuNDQ3LDEsMSwxczEtMC40NDcsMS0xdi02QzQ0LDM1LjQ0Nyw0My41NTMsMzUsNDMsMzV6Ii8+DQoJPHBhdGggc3R5bGU9ImZpbGw6IzM4NDU0RjsiIGQ9Ik0zOSwzNWMtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTF2LTZDNDAsMzUuNDQ3LDM5LjU1MywzNSwzOSwzNXoiLz4NCgk8cGF0aCBzdHlsZT0iZmlsbDojMzg0NTRGOyIgZD0iTTM1LDM1Yy0wLjU1MywwLTEsMC40NDctMSwxdjZjMCwwLjU1MywwLjQ0NywxLDEsMXMxLTAuNDQ3LDEtMXYtNkMzNiwzNS40NDcsMzUuNTUzLDM1LDM1LDM1eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNMzEsMzVjLTAuNTUzLDAtMSwwLjQ0Ny0xLDF2NmMwLDAuNTUzLDAuNDQ3LDEsMSwxczEtMC40NDcsMS0xdi02QzMyLDM1LjQ0NywzMS41NTMsMzUsMzEsMzV6Ii8+DQoJPHBhdGggc3R5bGU9ImZpbGw6IzM4NDU0RjsiIGQ9Ik0yNywzNWMtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTF2LTZDMjgsMzUuNDQ3LDI3LjU1MywzNSwyNywzNXoiLz4NCjwvZz4NCjxyZWN0IHk9IjE4IiBzdHlsZT0iZmlsbDojMzg0NTRGOyIgd2lkdGg9IjUyIiBoZWlnaHQ9IjE0Ii8+DQo8Y2lyY2xlIHN0eWxlPSJmaWxsOiNFN0VDRUQ7IiBjeD0iOCIgY3k9IjI1IiByPSIzIi8+DQo8Zz4NCgk8cGF0aCBzdHlsZT0iZmlsbDojMjgzMjM4OyIgZD0iTTQ3LDIxYy0wLjU1MywwLTEsMC40NDctMSwxdjZjMCwwLjU1MywwLjQ0NywxLDEsMXMxLTAuNDQ3LDEtMXYtNkM0OCwyMS40NDcsNDcuNTUzLDIxLDQ3LDIxeiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMyODMyMzg7IiBkPSJNNDMsMjFjLTAuNTUzLDAtMSwwLjQ0Ny0xLDF2NmMwLDAuNTUzLDAuNDQ3LDEsMSwxczEtMC40NDcsMS0xdi02QzQ0LDIxLjQ0Nyw0My41NTMsMjEsNDMsMjF6Ii8+DQoJPHBhdGggc3R5bGU9ImZpbGw6IzI4MzIzODsiIGQ9Ik0zOSwyMWMtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTF2LTZDNDAsMjEuNDQ3LDM5LjU1MywyMSwzOSwyMXoiLz4NCgk8cGF0aCBzdHlsZT0iZmlsbDojMjgzMjM4OyIgZD0iTTM1LDIxYy0wLjU1MywwLTEsMC40NDctMSwxdjZjMCwwLjU1MywwLjQ0NywxLDEsMXMxLTAuNDQ3LDEtMXYtNkMzNiwyMS40NDcsMzUuNTUzLDIxLDM1LDIxeiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMyODMyMzg7IiBkPSJNMzEsMjFjLTAuNTUzLDAtMSwwLjQ0Ny0xLDF2NmMwLDAuNTUzLDAuNDQ3LDEsMSwxczEtMC40NDcsMS0xdi02QzMyLDIxLjQ0NywzMS41NTMsMjEsMzEsMjF6Ii8+DQoJPHBhdGggc3R5bGU9ImZpbGw6IzI4MzIzODsiIGQ9Ik0yNywyMWMtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTF2LTZDMjgsMjEuNDQ3LDI3LjU1MywyMSwyNywyMXoiLz4NCjwvZz4NCjxyZWN0IHk9IjQiIHN0eWxlPSJmaWxsOiMyODMyMzg7IiB3aWR0aD0iNTIiIGhlaWdodD0iMTQiLz4NCjxjaXJjbGUgc3R5bGU9ImZpbGw6I0U3RUNFRDsiIGN4PSI4IiBjeT0iMTEiIHI9IjMiLz4NCjxnPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNNDcsN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTFWOEM0OCw3LjQ0Nyw0Ny41NTMsNyw0Nyw3eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNNDMsN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTFWOEM0NCw3LjQ0Nyw0My41NTMsNyw0Myw3eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNMzksN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTFWOEM0MCw3LjQ0NywzOS41NTMsNywzOSw3eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNMzUsN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTFWOEMzNiw3LjQ0NywzNS41NTMsNywzNSw3eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNMzEsN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTFWOEMzMiw3LjQ0NywzMS41NTMsNywzMSw3eiIvPg0KCTxwYXRoIHN0eWxlPSJmaWxsOiMzODQ1NEY7IiBkPSJNMjcsN2MtMC41NTMsMC0xLDAuNDQ3LTEsMXY2YzAsMC41NTMsMC40NDcsMSwxLDFzMS0wLjQ0NywxLTFWOEMyOCw3LjQ0NywyNy41NTMsNywyNyw3eiIvPg0KPC9nPg0KPGNpcmNsZSBzdHlsZT0iZmlsbDojMjFDNkY3OyIgY3g9IjE1IiBjeT0iMzkiIHI9IjIiLz4NCjxjaXJjbGUgc3R5bGU9ImZpbGw6IzIxQzZGNzsiIGN4PSIxNSIgY3k9IjI1IiByPSIyIi8+DQo8Y2lyY2xlIHN0eWxlPSJmaWxsOiM4MUVBMUM7IiBjeD0iMTUiIGN5PSIxMSIgcj0iMiIvPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo="></a>
 
 <details close>
 <summary>Show more stuff</summary>
@@ -73,7 +71,37 @@ ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 
 </details>
+    
+## Home Lab
+<details close>
+<summary>Show</summary>
 
+## Images are coming!
+    
+## Main server:  
+**Lenovo ThinkCentre M710Q**  
+**CPU:** Intel® Core™ i5-7400T CPU @ 2.40GHz  
+**RAM:** 16 GB  
+**OS:**  [Unraid](https://unraid.net/)  
+**Nickname:** The Beast  
+
+Using Unraid because of the easy UI allowing for a painless setup with built-in Docker support.
+The server is current hosting these services: SMB Server, Ant Media Server, Cloudflare DDNS, Duplicati (For off-site NAS backups), FlightRadar24 Feeder, Pi-Hole, SearXNG, Uptime Kuma, Speedtest Tracker  
+    
+The server has 2x 2 TB Seagate Barracuda harddrives for the SMB service running in raid 1 (Mirroring). Sadly, these are SMR harddrives...  
+    
+## Home Assistant  
+I have Home Assistant instance running on a Raspberry Pi 4 4GB model. The raspberry pi has a Sonoff zigbee usb dongle to be compatible with almost any smart device.  
+
+## Router  
+Currently using a Ubiquiti airCube AC in router mode. I have a 100/100 WAN connection and Gigabit LAN. 2.4 ghz and 5 ghz are seperated and the 2.4 network is used for IoT devices while the 5 ghz network is for person devices. I also have a guest network that can be connected to via an NFC tag.  
+    
+## Currently not used
+2x Raspberry Pi's
+    1 8 gb ram model and 1 2 gb ram model
+
+    
+</details>
 
 ## Tools I've used
 <details close>
