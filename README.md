@@ -97,7 +97,7 @@ I have Home Assistant instance running on a Raspberry Pi 4 4GB model. The raspbe
 Currently using a Ubiquiti airCube AC in router mode. I have a 100/100 WAN connection and Gigabit LAN. 2.4 ghz and 5 ghz are seperated and the 2.4 network is used for IoT devices while the 5 ghz network is for person devices. I also have a guest network that can be connected to via an NFC tag.  
     
 ## Currently not used
-2x Raspberry Pi's
+2x Raspberry Pi's  
     1 8 gb ram model and 1 2 gb ram model
 
     
