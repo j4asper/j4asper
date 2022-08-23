@@ -6,7 +6,7 @@ class Jasper:
     def __init__(self):
         self.age = 19
         self.birthday = datetime(year=2003, month=1, day=19) # 19th of January
-        self.location = "Slagelse 4200, Denmark" # 🇩🇰
+        self.location = "Odense 5000, Denmark" # 🇩🇰
         self.timezone = pytz.timezone('Europe/Copenhagen')
         self.company = 'JC-Integrations'
         self.personal_site = 'https://jazper.dk'
