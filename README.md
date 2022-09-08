@@ -15,8 +15,6 @@ class Jasper:
         self.hours_spent_on_this_readme_file = 2 # Worth it
 
 github_user = Jasper()
-
-print(f'Hi! I am {github_user.name}, i am {github_user.age} years old and based in {github_user.location}')
 ```
 
 **E-Mail:**  
