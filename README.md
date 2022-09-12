@@ -20,6 +20,9 @@ github_user = Jasper()
 **E-Mail:**  
 <a href="mailto:jasper@jazper.dk"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
+**GitLab:**  
+<a href="https://gitlab.com/j4asper"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+
 <details close>
 <summary>Show more stuff</summary>
 
