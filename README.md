@@ -94,8 +94,11 @@ The server has 2x 2 TB Seagate Barracuda harddrives for the SMB service running 
 ## Home Assistant  
 I have Home Assistant instance running on a Raspberry Pi 4 4GB model. The raspberry pi has a Sonoff zigbee usb dongle to be compatible with almost any smart device.  
 
-## Router  
-Currently using a Ubiquiti airCube AC in router mode. I have a 100/100 WAN connection and Gigabit LAN. 2.4 ghz and 5 ghz are seperated and the 2.4 network is used for IoT devices while the 5 ghz network is for personal devices. I also have a guest network that can be connected to via an NFC tag.  
+## Home Network  
+My whole home network is controlled with [TP-Links Omada SDN](https://www.tp-link.com/dk/omada-sdn/)  
+Router: [TP-Link ER605](https://www.tp-link.com/dk/business-networking/omada-sdn-router/er605/)  
+Controller: [TP-Link OC200](https://www.tp-link.com/dk/business-networking/omada-sdn-controller/oc200/)  
+Access Point: [TP-Link EAP610](https://www.tp-link.com/dk/business-networking/omada-sdn-access-point/eap610/)  
     
 ## Currently not used
 2x Raspberry Pi's  
