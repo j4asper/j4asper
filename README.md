@@ -4,7 +4,7 @@ from datetime import datetime
 
 class Jasper:
     def __init__(self):
-        self.age = 19
+        self.age = 20
         self.birthday = datetime(year=2003, month=1, day=19) # 19th of January
         self.location = "Odense 5000, Denmark" # 🇩🇰
         self.timezone = pytz.timezone('Europe/Copenhagen')
