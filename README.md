@@ -1,3 +1,19 @@
+```cs
+namespace Github
+{
+    public class Jasper : Person
+    {
+        public int age = 20;
+        public DateOnly brithDay = new DateOnly(year: 2003, month: 1, day: 19);
+        public string location = "Odense C 5000, Denmark";
+        public string company = "JC Integrations";
+        public string website = "https://jazper.dk";
+        public MailAddress mailAddress = new("Jasper@jazper.dk");
+        public string currentlyStudying = "Computer Science @ UCL University College";
+    }
+}
+```
+<!---
 ```python
 import pytz, requests
 from datetime import datetime
@@ -16,6 +32,7 @@ class Jasper:
 
 github_user = Jasper()
 ```
+-->
 
 **E-Mail:**  
 <a href="mailto:jasper@jazper.dk"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
