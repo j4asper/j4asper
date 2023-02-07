@@ -9,8 +9,7 @@ namespace Github
         public string company = "JC Integrations";
         public string website = "https://jazper.dk";
         public MailAddress mailAddress = new("Jasper@jazper.dk");
-        public string currentlyStudying = "Computer Science @ UCL University College";![image](https://user-images.githubusercontent.com/41993083/217181574-0458f093-0f72-439f-a7b0-7ffa4299dfa3.png)
-
+        public string currentlyStudying = "Computer Science @ UCL University College";
     }
 }
 ```
