@@ -9,7 +9,8 @@ namespace Github
         public string company = "JC Integrations";
         public string website = "https://jazper.dk";
         public MailAddress mailAddress = new("Jasper@jazper.dk");
-        public string currentlyStudying = "Computer Science @ UCL University College";
+        public string currentlyStudying = "Computer Science @ UCL University College";![image](https://user-images.githubusercontent.com/41993083/217181574-0458f093-0f72-439f-a7b0-7ffa4299dfa3.png)
+
     }
 }
 ```
@@ -84,11 +85,13 @@ llllllllllllll  lllllllllllllllllll   GPU: Caption
 ```
 
 <a href="https://zorin.com/os/"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"></a>
-<a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-1400"><img src="https://img.shields.io/badge/AMD-Ryzen_5_1400-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-<a href="https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6600-8g-gddr6"><img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+<a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-1400"><img src="https://img.shields.io/badge/AMD-Ryzen_7_5700U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 <a href="https://www.mozilla.org/da/firefox/new/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-8661C5?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
+<!---
+<a href="https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6600-8g-gddr6"><img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+-->
 </details>
     
 ## Home Lab
