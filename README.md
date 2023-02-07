@@ -62,24 +62,25 @@ github_user = Jasper()
 <summary>Show</summary>
 
 ```console
-jasper@Jasper-PC:~$ neofetch
-        `osssssssssssssssssssso`           jasper@Jasper-PC 
-       .osssssssssssssssssssssso.          ---------------- 
-      .+oooooooooooooooooooooooo+.         OS: Zorin OS 16.1 x86_64 
-                                           Kernel: 5.15.0-41-generic 
-                                           Uptime: 6 hours, 9 mins 
-  `::::::::::::::::::::::.         .:`     Packages: 2595 (dpkg), 37 (flatpak), 
- `+ssssssssssssssssss+:.`     `.:+ssso`    Shell: bash 5.0.17 
-.ossssssssssssssso/.       `-+ossssssso.   Resolution: 1920x1080, 1920x1080 
-ssssssssssssso/-`      `-/osssssssssssss   DE: GNOME 
-.ossssssso/-`      .-/ossssssssssssssso.   WM: Mutter 
- `+sss+:.      `.:+ssssssssssssssssss+`    WM Theme: ZorinGrey-Dark 
-  `:.         .::::::::::::::::::::::`     Theme: ZorinGrey-Dark [GTK2/3] 
-                                           Icons: ZorinGrey-Dark [GTK2/3] 
-                                           Terminal: gnome-terminal 
-      .+oooooooooooooooooooooooo+.         CPU: AMD Ryzen 5 1400 (8) @ 3.800GHz 
-       -osssssssssssssssssssssso-          GPU: AMD RX 6600 
-        `osssssssssssssssssssso`           Memory: 5403MiB / 32017MiB 
+                                ..,   Jasper@DESKTOP-0S058GI
+                    ....,,:;+ccllll   ----------------------
+      ...,,+:;  cllllllllllllllllll   OS: Windows 10 Pro x86_64
+,cclllllllllll  lllllllllllllllllll   Host: LENOVO 20Y7CTO1WW
+llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19044
+llllllllllllll  lllllllllllllllllll   Uptime: 3 days, 11 hours, 39 mins
+llllllllllllll  lllllllllllllllllll   Packages: 4 (scoop)
+llllllllllllll  lllllllllllllllllll   Shell: bash 5.2.12
+llllllllllllll  lllllllllllllllllll   Resolution: 1920x1080
+                                      DE: Aero
+llllllllllllll  lllllllllllllllllll   WM: Explorer
+llllllllllllll  lllllllllllllllllll   WM Theme: Custom
+llllllllllllll  lllllllllllllllllll   Terminal: Windows Terminal
+llllllllllllll  lllllllllllllllllll   CPU: AMD Ryzen 7 5700U with Radeon Graphics (16) @ 1.800GHz
+llllllllllllll  lllllllllllllllllll   GPU: Caption
+`'ccllllllllll  lllllllllllllllllll   GPU: AMD Radeon(TM) Graphics
+       `' \*::  :ccllllllllllllllll   GPU
+                       ````''*::cll   Memory: 6034MiB / 23370MiB
+                                 ``
 ```
 
 <a href="https://zorin.com/os/"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"></a>
