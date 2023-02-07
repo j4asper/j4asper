@@ -4,7 +4,7 @@ namespace Github
     public class Jasper : Person
     {
         public int age = 20;
-        public DateOnly brithDay = new DateOnly(year: 2003, month: 1, day: 19);
+        public DateOnly birthday = new(year: 2003, month: 1, day: 19);
         public string location = "Odense C 5000, Denmark";
         public string company = "JC Integrations";
         public string website = "https://jazper.dk";
