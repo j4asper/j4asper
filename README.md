@@ -3,13 +3,13 @@ namespace Github
 {
     public class Jasper : Person
     {
-        public int age = 20;
-        public DateOnly birthday = new(year: 2003, month: 1, day: 19);
-        public string location = "Odense C 5000, Denmark";
-        public string company = "JC Integrations";
-        public string website = "https://jazper.dk";
-        public MailAddress mailAddress = new("Jasper@jazper.dk");
-        public string currentlyStudying = "Computer Science @ UCL University College";
+        public int Age { get; } = 20;
+        public DateOnly Birthday { get; } = new(year: 2003, month: 1, day: 19);
+        public string Location { get; } = "Odense C 5000, Denmark";
+        public string Company { get; } = "JC Integrations";
+        public string Website { get; } = "https://jazper.dk";
+        public MailAddress EMail { get; } = new("Jasper@jazper.dk");
+        public string CurrentlyStudying { get; } = "Computer Science @ UCL University College";
     }
 }
 ```
