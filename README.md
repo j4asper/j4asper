@@ -97,7 +97,7 @@ llllllllllllll  lllllllllllllllllll   GPU: Caption
 <details close>
 <summary>Show</summary>
 
-## Images are coming!
+![Hom lab image](./images/home lab.jpg)
     
 ## Main server:  
 **Lenovo ThinkCentre M710Q**  
