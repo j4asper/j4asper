@@ -107,24 +107,20 @@ llllllllllllll  lllllllllllllllllll   GPU: Caption
 **Nickname:** The Beast  
 
 Using Unraid because of the easy UI allowing for a painless setup with built-in Docker support.
-The server is current hosting these services: SMB Server, Ant Media Server, Cloudflare DDNS, Duplicati (For off-site NAS backups), FlightRadar24 Feeder, Pi-Hole, SearXNG, Uptime Kuma, Speedtest Tracker  
+The server is current hosting these services: SMB Server, Ant Media Server, Cloudflare DDNS, Duplicati (For off-site NAS backups), FlightRadar24 Feeder, AdGuard, Uptime Kuma  
     
-The server has 2x 2 TB Seagate Barracuda harddrives for the SMB service running in raid 1 (Mirroring). Sadly, these are SMR harddrives...  
+The server has 2x 2 TB Seagate Barracuda harddrives for the SMB service running in raid 1 (Mirroring).  
     
 ## Home Assistant  
-I have Home Assistant instance running on a Raspberry Pi 4 4GB model. The raspberry pi has a Sonoff zigbee usb dongle to be compatible with almost any smart device.  
+I have Home Assistant instance running on an [Intel Nuc](https://www.intel.com/content/www/us/en/products/sku/214624/intel-nuc-kit-nuc7cjyhn/specifications.html) with 8 gb ram. It has a zigbee usb dongle in it to be compatible with almost any smart home device.  
 
 ## Home Network  
 My whole home network is controlled with [TP-Links Omada SDN](https://www.tp-link.com/dk/omada-sdn/)  
 Router: [TP-Link ER605](https://www.tp-link.com/dk/business-networking/omada-sdn-router/er605/)  
 Controller: [TP-Link OC200](https://www.tp-link.com/dk/business-networking/omada-sdn-controller/oc200/)  
 Access Point: [TP-Link EAP610](https://www.tp-link.com/dk/business-networking/omada-sdn-access-point/eap610/)  
-    
-## Currently not used
-2x Raspberry Pi's  
-    1 8 gb ram model and 1 2 gb ram model
-
-    
+Managed Switch: [TP-Link TL-SG108PE](https://www.tp-link.com/dk/business-networking/easy-smart-switch/tl-sg108pe/)
+ 
 </details>
 
 ## Tools I've used
