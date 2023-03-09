@@ -119,7 +119,8 @@ My whole home network is controlled with [TP-Links Omada SDN](https://www.tp-lin
 Router: [TP-Link ER605](https://www.tp-link.com/dk/business-networking/omada-sdn-router/er605/)  
 Controller: [TP-Link OC200](https://www.tp-link.com/dk/business-networking/omada-sdn-controller/oc200/)  
 Access Point: [TP-Link EAP610](https://www.tp-link.com/dk/business-networking/omada-sdn-access-point/eap610/)  
-Managed Switch: [TP-Link TL-SG108PE](https://www.tp-link.com/dk/business-networking/easy-smart-switch/tl-sg108pe/)
+Managed Switch: [TP-Link TL-SG108PE](https://www.tp-link.com/dk/business-networking/easy-smart-switch/tl-sg108pe/)  
+Also most of the server stuff has an IP label, in case something networking related dies and i need to restore the DHCP Reservations. Everything should be backed up tho.
  
 </details>
 
