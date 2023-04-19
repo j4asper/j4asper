@@ -54,6 +54,8 @@ github_user = Jasper()
 <a href="https://www.kaggle.com/jazper"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/Jasper1901/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://discord.com/users/282660538356596736"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://app.hackthebox.com/profile/261105"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+<a href="https://cryptohack.org/user/Jazper/"><img src="https://img.shields.io/badge/CryptoHack-%ffac33?style=for-the-badge&logo=cryptohack&logoColor=white"></a>
 
 </details>
 
