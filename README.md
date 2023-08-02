@@ -1,3 +1,5 @@
+![Tech Banner](./images/banner.jpg)
+
 [**Cyber Security - Capture The Flag Team**](https://github.com/Z3R0D4Y-Team)
 
 ```cs
