@@ -1,3 +1,5 @@
+[**Cyber Security - Capture The Flag Team**](https://github.com/Z3R0D4Y-Team)
+
 ```cs
 namespace Github
 {
@@ -5,11 +7,11 @@ namespace Github
     {
         public int Age { get; } = DateTime.Today.Year - Birthday.Year;
         public DateOnly Birthday { get; } = new(year: 2003, month: 1, day: 19);
-        public string Location { get; } = "Odense C 5000, Denmark";
-        public string Company { get; } = "JC Integrations";
+        public string Location { get; } = "Odense C, 5000, Denmark";
         public string Website { get; } = "https://jazper.dk";
         public MailAddress EMail { get; } = new("Jasper@jazper.dk");
-        public string CurrentlyStudying { get; } = "Computer Science @ UCL University College";
+        public string CurrentStudy { get; } = "Computer Science @ UCL University College";
+        public string LinkedIn { get; } = "https://www.linkedin.com/in/jasper-onsberg-christiansen/";
     }
 }
 ```
