@@ -55,6 +55,7 @@ github_user = Jasper()
 <a href="https://www.snapchat.com/add/j4azper"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
 <a href="https://twitter.com/Jazper1901"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jasper-onsberg-christiansen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://ctftime.org/user/159222"><img src="https://img.shields.io/badge/CTFTime-E3000B.svg?style=for-the-badge"></a>
 <a href="https://www.kaggle.com/jazper"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/Jasper1901/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://discord.com/users/282660538356596736"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -63,71 +64,32 @@ github_user = Jasper()
 <a href="https://cryptohack.org/user/Jazper/"><img src="https://img.shields.io/badge/CryptoHack-%ffac33?style=for-the-badge&logo=cryptohack&logoColor=white"></a>
 
 </details>
-
-## Computer
-<details close>
-<summary>Show</summary>
-
-```console
-                                ..,   Jasper@DESKTOP-0S058GI
-                    ....,,:;+ccllll   ----------------------
-      ...,,+:;  cllllllllllllllllll   OS: Windows 10 Pro x86_64
-,cclllllllllll  lllllllllllllllllll   Host: LENOVO 20Y7CTO1WW
-llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19044
-llllllllllllll  lllllllllllllllllll   Uptime: 3 days, 11 hours, 39 mins
-llllllllllllll  lllllllllllllllllll   Packages: 4 (scoop)
-llllllllllllll  lllllllllllllllllll   Shell: bash 5.2.12
-llllllllllllll  lllllllllllllllllll   Resolution: 1920x1080
-                                      DE: Aero
-llllllllllllll  lllllllllllllllllll   WM: Explorer
-llllllllllllll  lllllllllllllllllll   WM Theme: Custom
-llllllllllllll  lllllllllllllllllll   Terminal: Windows Terminal
-llllllllllllll  lllllllllllllllllll   CPU: AMD Ryzen 7 5700U with Radeon Graphics (16) @ 1.800GHz
-llllllllllllll  lllllllllllllllllll   GPU: Caption
-`'ccllllllllll  lllllllllllllllllll   GPU: AMD Radeon(TM) Graphics
-       `' \*::  :ccllllllllllllllll   GPU
-                       ````''*::cll   Memory: 6034MiB / 23370MiB
-                                 ``
-```
-
-<a href="https://zorin.com/os/"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"></a>
-<a href="https://www.amd.com/en/products/cpu/amd-ryzen-5-1400"><img src="https://img.shields.io/badge/AMD-Ryzen_7_5700U-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-<a href="https://www.mozilla.org/da/firefox/new/"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-8661C5?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
-<!---
-<a href="https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6600-8g-gddr6"><img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
--->
-</details>
     
 ## Home Lab
 <details close>
-<summary>Show</summary>
-
-![Hom lab image](./images/home_lab.jpg)
+<summary>Show</summary>  
     
 ## Main server:  
-**Lenovo ThinkCentre M710Q**  
-**CPU:** Intel® Core™ i5-7400T CPU @ 2.40GHz  
-**RAM:** 16 GB  
+**CPU:** AMD Ryzen 7 5700G @ 3.8 ghz  
+**RAM:** 32 GB  
 **OS:**  [Unraid](https://unraid.net/)  
 **Nickname:** The Beast  
+**Storage:** 2x 2 TB harddrives (Raid 1 Configuration)  
+**Cache:** 500 GB SSD  
 
-Using Unraid because of the easy UI allowing for a painless setup with built-in Docker support.
-The server is current hosting these services: SMB Server, Ant Media Server, Cloudflare DDNS, Duplicati (For off-site NAS backups), FlightRadar24 Feeder, AdGuard, Uptime Kuma  
-    
-The server has 2x 2 TB Seagate Barracuda harddrives for the SMB service running in raid 1 (Mirroring).  
-    
-## Home Assistant  
-I have Home Assistant instance running on an [Intel Nuc](https://www.intel.com/content/www/us/en/products/sku/214624/intel-nuc-kit-nuc7cjyhn/specifications.html) with 8 gb ram. It has a zigbee usb dongle in it to be compatible with almost any smart home device.  
+## Home Assistant:  
+**Intel Nuc**  
+**CPU:** Intel® Celeron® Processor J4025  
+**RAM:** 8 GB  
+**Storage:** 120 GB SSD  
 
 ## Home Network  
-My whole home network is controlled with [TP-Links Omada SDN](https://www.tp-link.com/dk/omada-sdn/)  
+Home Network controlled with [TP-Link Omada SDN](https://www.tp-link.com/dk/omada-sdn/)  
 Router: [TP-Link ER605](https://www.tp-link.com/dk/business-networking/omada-sdn-router/er605/)  
 Controller: [TP-Link OC200](https://www.tp-link.com/dk/business-networking/omada-sdn-controller/oc200/)  
 Access Point: [TP-Link EAP610](https://www.tp-link.com/dk/business-networking/omada-sdn-access-point/eap610/)  
 Managed Switch: [TP-Link TL-SG108PE](https://www.tp-link.com/dk/business-networking/easy-smart-switch/tl-sg108pe/)  
-Also most of the server stuff has an IP label, in case something networking related dies and i need to restore the DHCP Reservations. Everything should be backed up tho.
+300/300 WAN Speed  
  
 </details>
 
@@ -174,10 +136,3 @@ Also most of the server stuff has an IP label, in case something networking rela
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=j4asper&theme=blue-green">
-
-</details>
-
-<a href="https://www.buymeacoffee.com/jazper" target="_blank"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wOC9JNUc0QnN4OTJLWVE5NkVLLnBuZ0AzMDB3XzBlLndlYnA=&creator=Jasper+O.+C.&design_code=1&design_color=%2326B0A1&slug=jazper" width="400" height="auto"></a>
-
-</details>
-
