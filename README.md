@@ -7,6 +7,7 @@ namespace Github
 {
     public class Jasper : Person
     {
+        // Shitty way to calculate age, but will work for 347 days out of 365.
         public int Age { get; } = DateTime.Today.Year - Birthday.Year;
         public DateOnly Birthday { get; } = new(year: 2003, month: 1, day: 19);
         public string Location { get; } = "Odense C, 5000, Denmark";
