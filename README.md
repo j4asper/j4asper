@@ -39,12 +39,6 @@ github_user = Jasper()
 ```
 -->
 
-**E-Mail:**  
-<a href="mailto:jasper@jazper.dk"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-
-**GitLab:** *Only used for school projects*  
-<a href="https://gitlab.com/j4asper"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-
 <details close>
 <summary>Show more stuff</summary>
 
@@ -63,6 +57,7 @@ github_user = Jasper()
 <a href="https://app.hackthebox.com/profile/261105"><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
 <a href="https://tryhackme.com/p/jazper?show_achievement_badg=blue"><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 <a href="https://cryptohack.org/user/Jazper/"><img src="https://img.shields.io/badge/CryptoHack-%ffac33?style=for-the-badge&logo=cryptohack&logoColor=white"></a>
+<a href="https://gitlab.com/j4asper"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 
 </details>
     
