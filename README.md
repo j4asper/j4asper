@@ -89,6 +89,7 @@ github_user = Jasper()
 ### Other Technologies:
 
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-119EFF?style=for-the-badge&logo=Docker&logoColor=white"></a>
+<a href="https://kubernetes.io//"><img src="https://img.shields.io/badge/Kubernetes-Blue?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue"></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
 <a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
