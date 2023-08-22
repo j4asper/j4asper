@@ -77,6 +77,7 @@ github_user = Jasper()
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
+<a href="https://www.microsoft.com/da-dk/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-gray?style=for-the-badge&logo=microsoftsqlserver"></a>
 
 ## Web:
 
