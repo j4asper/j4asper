@@ -39,6 +39,8 @@ github_user = Jasper()
 ```
 -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS)](https://git.io/typing-svg)
+
 <details close>
 <summary>Show more stuff</summary>
 
