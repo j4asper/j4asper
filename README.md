@@ -12,6 +12,7 @@ namespace Github
         public DateOnly Birthday { get; } = new(year: 2003, month: 1, day: 19);
         public string Location { get; } = "Odense C, 5000, Denmark";
         public string Website { get; } = "https://jazper.dk";
+        public string WebsiteOnTOR { get; } = "http://kf4c2zdyj6wqitqnfa2rmqpcfsjpyl6r6hyaxukimtzklg6gmoyxj5id.onion";
         public MailAddress EMail { get; } = new("Jasper@jazper.dk");
         public string CurrentStudy { get; } = "Computer Science @ UCL University College";
         public string LinkedIn { get; } = "https://www.linkedin.com/in/jasper-onsberg-christiansen/";
