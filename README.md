@@ -1,49 +1,48 @@
 ![Tech Banner](./images/banner.jpg)
 
-[**Cyber Security - Capture The Flag Team**](https://github.com/Z3R0D4Y-Team)
-
-```cs
-namespace Github
-{
-    public class Jasper : Person
-    {
-        // Shitty way to calculate age, but will work for 347 days out of 365.
-        public int Age { get; } = DateTime.Today.Year - Birthday.Year;
-        public DateOnly Birthday { get; } = new(year: 2003, month: 1, day: 19);
-        public string Location { get; } = "Odense C, 5000, Denmark";
-        public string Website { get; } = "https://jazper.dk";
-        public string WebsiteOnTOR { get; } = "http://jazper3vw7hlnso737anz2ppcgezvk2oo4cyq3ucyxq6xe3ncnbymmad.onion";
-        public MailAddress EMail { get; } = new("Jasper@jazper.dk");
-        public string CurrentStudy { get; } = "Computer Science @ UCL University College";
-        public string LinkedIn { get; } = "https://www.linkedin.com/in/jasper-onsberg-christiansen/";
-    }
-}
-```
-<!---
 ```python
-import pytz, requests
-from datetime import datetime
+from pydantic import BaseModel
+from datetime import date
 
-class Jasper:
-    def __init__(self):
-        self.age = 20
-        self.birthday = datetime(year=2003, month=1, day=19) # 19th of January
-        self.location = "Odense 5000, Denmark" # 🇩🇰
-        self.timezone = pytz.timezone('Europe/Copenhagen')
-        self.company = 'JC-Integrations'
-        self.personal_site = 'https://jazper.dk'
-        self.email = 'jasper@jazper.dk'
-        self.currently_studying = "Computer Science @ UCL Erhversakademi"
-        self.hours_spent_on_this_readme_file = 2 # Worth it
+class Nerd(BaseModel):
+    name: str
+    birthday: date
+    location: str
+    website: str
+    website_tor: str
+    email: str
+    currently_studying: str
+    linkedin: str
 
-github_user = Jasper()
+    def __str__(self) -> str:
+        return f"My name is {self.name}, I am currently studying {self.currently_studying} and I live in {self.location}. You can reach me by email: {self.email}, linkedin: {self.linkedin} or another way found on my website: {self.website} (TOR version: {self.website_tor})."
+
+
+if __name__ == "__main__":
+    import requests
+    resp = requests.get("https://jazper.dk/nerd.json")
+    nerd = Nerd(**resp.json())
+    print(nerd)
+
+# My name is Jasper, I am currently studying Computer Science @ UCL University College and I live in Odense C, 5000, Denmark. You can reach me by email: jasper@jazper.dk, linkedin: https://www.linkedin.com/in/jasper-onsberg-christiansen or another way found on my website: https://jazper.dk (TOR version: http://jazper3vw7hlnso737anz2ppcgezvk2oo4cyq3ucyxq6xe3ncnbymmad.onion).
 ```
--->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS)](https://git.io/typing-svg)
 
 <details close>
-<summary>Show more stuff</summary>
+<summary>Show cool stuff 😎</summary>
+
+## Some of my projects
+<details close>
+<summary>Show</summary>
+
+[**Z3R0D4Y CTF Team:**](https://github.com/Z3R0D4Y-Team) A CTF (Capture the Flag) team, that aims to become better at pentesting.
+
+[**dmr.py:**](https://github.com/j4asper/dmr.py) A python package, that allows programmers to easily fetch vehicle data from the danish vehicle registry.
+
+[**revolut.py:**](https://github.com/j4asper/revolut.py) A python API wrapper for [Revoluts API](https://developer.revolut.com/).
+
+</details>
 
 ## Socials
 <details close>
