@@ -107,16 +107,22 @@ if __name__ == "__main__":
 <summary>Show</summary>  
     
 ## Main server:  
-**CPU:** AMD Ryzen 7 5700G @ 3.8 ghz  
+**CPU:** AMD Ryzen 7 5700G (8 Cores)  
 **RAM:** 32 GB  
 **OS:**  [Unraid](https://unraid.net/)  
 **Nickname:** The Beast  
 **Storage:** 2x 2 TB harddrives (Raid 1 Configuration)  
 **Cache:** 500 GB SSD  
 
+## Kubernetes Cluster:  
+**HP Elitedesk 800 G5 Mini**  
+**CPU:** Intel Core i5-9500T (6 Cores)  
+**RAM:** 16 GB  
+**Storage:** 256 GB SSD  
+
 ## Home Assistant:  
 **Intel Nuc**  
-**CPU:** Intel® Celeron® Processor J4025  
+**CPU:** Intel Celeron J4025 (2 Cores)  
 **RAM:** 8 GB  
 **Storage:** 120 GB SSD  
 
