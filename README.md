@@ -27,6 +27,8 @@ if __name__ == "__main__":
 # My name is Jasper, I am currently studying Computer Science @ UCL University College and I live in Odense C, 5000, Denmark. You can reach me by email: jasper@jazper.dk, linkedin: https://www.linkedin.com/in/jasper-onsberg-christiansen or another way found on my website: https://jazper.dk (TOR version: http://jazper3vw7hlnso737anz2ppcgezvk2oo4cyq3ucyxq6xe3ncnbymmad.onion).
 ```
 
+ [![](https://tryhackme-badges.s3.amazonaws.com/jazper.png)](https://tryhackme.com/p/jazper)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS)](https://git.io/typing-svg)
 
 <details close>
