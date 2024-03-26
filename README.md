@@ -32,13 +32,13 @@ if __name__ == "__main__":
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS)](https://git.io/typing-svg)
 
 <details close>
-<summary>Show cool stuff 😎</summary>
+<summary>Show more...</summary>
 
 ## Some of my projects
 <details close>
 <summary>Show</summary>
 
-[**Z3R0D4Y CTF Team:**](https://github.com/Z3R0D4Y-Team) A CTF (Capture the Flag) team, that aims to become better at pentesting.
+[**XSploit CTF Team:**](https://github.com/XSploit-Team) A CTF (Capture the Flag) team, that aims to become better at pentesting.
 
 [**dmr.py:**](https://github.com/j4asper/dmr.py) A python package, that allows programmers to easily fetch vehicle data from the danish vehicle registry.
 
