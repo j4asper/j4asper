@@ -1,35 +1,26 @@
 ![Tech Banner](./images/banner.jpg)
 
-```python
-from pydantic import BaseModel
-from datetime import date
+```console
+┌──(kali㉿kali)-[~]
+└─$ nc jazper.dk:2003
 
-class Nerd(BaseModel):
-    name: str
-    birthday: date
-    location: str
-    website: str
-    website_tor: str
-    email: str
-    currently_studying: str
-    linkedin: str
+     ██╗ █████╗ ███████╗██████╗ ███████╗██████╗ 
+     ██║██╔══██╗██╔════╝██╔══██╗██╔════╝██╔══██╗
+     ██║███████║███████╗██████╔╝█████╗  ██████╔╝
+██   ██║██╔══██║╚════██║██╔═══╝ ██╔══╝  ██╔══██╗
+╚█████╔╝██║  ██║███████║██║     ███████╗██║  ██║
+ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝
 
-    def __str__(self) -> str:
-        return f"My name is {self.name}, I am currently studying {self.currently_studying} and I live in {self.location}. You can reach me by email: {self.email}, linkedin: {self.linkedin} or another way found on my website: {self.website} (TOR version: {self.website_tor})."
-
-
-if __name__ == "__main__":
-    import requests
-    resp = requests.get("https://jazper.dk/nerd.json")
-    nerd = Nerd(**resp.json())
-    print(nerd)
-
-# My name is Jasper, I am currently studying Computer Science @ UCL University College and I live in Odense C, 5000, Denmark. You can reach me by email: jasper@jazper.dk, linkedin: https://www.linkedin.com/in/jasper-onsberg-christiansen or another way found on my website: https://jazper.dk (TOR version: http://jazper3vw7hlnso737anz2ppcgezvk2oo4cyq3ucyxq6xe3ncnbymmad.onion).
+- LinkedIn:  https://www.linkedin.com/in/jasper-onsberg-christiansen/             
+- Website:   https://jazper.dk/
+- Email:     jasper@jazper.dk
+- Study:     Computer Science
+- Age:       21 (19/1 - 2003)
 ```
 
  [![](https://tryhackme-badges.s3.amazonaws.com/jazper.png)](https://tryhackme.com/p/jazper)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS;Linux;Pentesting)](https://git.io/typing-svg)
 
 <details close>
 <summary>Show more...</summary>
@@ -110,7 +101,7 @@ if __name__ == "__main__":
     
 ## Main server:  
 **CPU:** AMD Ryzen 7 5700G (8 Cores)  
-**RAM:** 32 GB  
+**RAM:** 64 GB  
 **OS:**  [Unraid](https://unraid.net/)  
 **Nickname:** The Beast  
 **Storage:** 2x 2 TB harddrives (Raid 1 Configuration)  
