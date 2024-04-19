@@ -20,7 +20,7 @@
 
  [![](https://tryhackme-badges.s3.amazonaws.com/jazper.png)](https://tryhackme.com/p/jazper)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS;Linux;Pentesting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=400&color=00A8F7&width=435&lines=Python;C%23;Javascript;PostgreSQL;MongoDB;Redis;MySQL;SQLite;Microsoft+SQL+Server;Docker;Kubernetes;Github+Actions;HTML;CSS;Linux;Pentesting)](https://git.io/typing-svg)
 
 <details close>
 <summary>Show more...</summary>
