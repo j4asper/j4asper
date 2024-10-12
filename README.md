@@ -29,6 +29,8 @@
 <details close>
 <summary>Show</summary>
 
+[**Bump Buddy Discord Bot:**](https://bumpbuddy.xyz) A discord chatbot made in C# using [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus). The chatbot is in over 21.000 discord servers.
+
 [**XSploit CTF Team:**](https://github.com/XSploit-Team) A CTF (Capture the Flag) team, that aims to become better at pentesting.
 
 [**dmr.py:**](https://github.com/j4asper/dmr.py) A python package, that allows programmers to easily fetch vehicle data from the danish vehicle registry.
