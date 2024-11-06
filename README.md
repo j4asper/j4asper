@@ -15,6 +15,7 @@
 - Website:   https://jazper.dk/
 - Email:     jasper@jazper.dk
 - Study:     Computer Science
+- Work:      AIRSUPPORT A/S
 - Age:       21 (19/1 - 2003)
 ```
 
