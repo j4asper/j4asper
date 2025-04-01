@@ -14,8 +14,7 @@
 - LinkedIn:  https://www.linkedin.com/in/jasper-onsberg-christiansen/             
 - Website:   https://jazper.dk/
 - Email:     jasper@jazper.dk
-- Study:     Cyber Security
-- Work:      AIRSUPPORT A/S
+- Work:      Software Developer @ AIR SUPPORT A/S
 - Age:       22 (19/1 - 2003)
 ```
 
